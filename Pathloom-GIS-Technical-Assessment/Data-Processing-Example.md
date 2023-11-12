@@ -5,7 +5,7 @@ The code I wrote below is designed to read a KML file exported from EsDAT with c
 Here is the databoxes as they appear TRAPPED in the ESDAT web interface.
 ![DataboxExample1](https://github.com/summerturn/Summerlyn-Turner-Portfolio/assets/55452231/16c80aef-2ad4-4ec9-9943-16282e408cd1)
 
-Here are the formatted databoxes in an excel sheet, ready to be pasted into an mxd or further edited! I created a Horizontal and Vertical variation that the team can choose between depding on need.
+Here are the formatted databoxes in an excel sheet, ready to be pasted into an mxd or further edited! I created a Horizontal and Vertical variation that the team can choose between depending on need.
 
 ![DataboxExample3](https://github.com/summerturn/Summerlyn-Turner-Portfolio/assets/55452231/542bd3b5-f0d0-42d8-9f6a-9fd88beb7882)
 
