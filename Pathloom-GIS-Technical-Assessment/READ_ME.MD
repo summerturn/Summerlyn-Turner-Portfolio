@@ -38,11 +38,11 @@ Solution is located HERE (https://github.com/summerturn/Summerlyn-Turner-Portfol
    CSV with duplicate geometries is HERE (https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Pathloom-GIS-Technical-Assesment.ipynb)
 
    Using ArcGIS, QGIS, or Python GDAL, derive the following properties for all records in your dataset: 
-     elevation profile (x-axis should be distance, y-axis should be elevation), 
-     min elevation, 
-     max elevation, 
-     and total elevation gain. 
-     Export it as a shapefile and csv, 
-     and provide a screenshot of your output dataframe and an example of your elevation profile plot. 
-     Also, list what DEM and Coordinate Systems you used in your analysis (share links where available).
+     * elevation profile (x-axis should be distance, y-axis should be elevation), 
+     * min elevation, 
+     * max elevation, 
+     * and total elevation gain. 
+     * Export it as a shapefile and csv, 
+     * and provide a screenshot of your output dataframe and an example of your elevation profile plot. 
+     * Also, list what DEM and Coordinate Systems you used in your analysis (share links where available).
 
