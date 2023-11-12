@@ -8,7 +8,7 @@ Solution is located HERE (https://github.com/summerturn/Summerlyn-Turner-Portfol
 
 ## 2. Answer the following questions:
 
- a. Create a Mapbox tileset that consists of live data obtained from NOAA. This data will require you to pull the images from an API in order to get what you need to create the tileset.
+ ### a. Create a Mapbox tileset that consists of live data obtained from NOAA. This data will require you to pull the images from an API in order to get what you need to create the tileset.
 
    Example: https://digital.weather.gov/?zoom=6&lat=45.9413&lon=-112.04565&layers=00BTFFTT&region=0&element=0&mxmz=false 
 
@@ -28,7 +28,7 @@ Solution is located HERE (https://github.com/summerturn/Summerlyn-Turner-Portfol
    Notebook with my code is HERE (https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Pathloom-GIS-Technical-Assesment.ipynb)
    Mapbox with Tileset is HERE (https://api.mapbox.com/styles/v1/summerturn/clotm4r9900lg01nt607pa2v1.html?title=view&access_token=pk.eyJ1Ijoic3VtbWVydHVybiIsImEiOiJjbG9wNWlraWIwNXExMnFwc283bHN4YzNnIn0.txOjCJy5fAKuvkXfH2E_1A&zoomwheel=true&fresh=true#4.52/35.44/-94.88)
 
- b. Using the NPS website (https://public-nps.opendata.arcgis.com/)  find the trails data for Rocky Mountain National Park. 
+ ### b. Using the NPS website (https://public-nps.opendata.arcgis.com/)  find the trails data for Rocky Mountain National Park. 
 
    The tile should be named “Rocky Mountain National Park - Trails,” download the shapefile.
 
