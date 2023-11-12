@@ -1,6 +1,6 @@
 ## Data Processing Example
 
-The code below’s main function is to read a KML file exported from EsDAT with chemistry databoxes and processes the data into an Excel sheet with styled and complete databoxes that can be copied into an ArcMap document as is. The script also offers to convert the KML into a Shapefile format to make the process even more streamlined if the locations don’t already exist within a project. Creating databoxes used to be a manual process from front to back and this script now allows the GIS team at my company to automate this portion of the databox creation. This saves us time and energy.
+The code I wrote below is designed to read a KML file exported from EsDAT with chemistry databoxes and processes the data into an Excel sheet with styled and complete databoxes that can be copied into an ArcMap document as is. The script also offers to convert the KML into a Shapefile format to make the process even more streamlined if the locations don’t already exist within a project. Creating databoxes used to be a manual process from front to back and this script now allows the GIS team at my company to automate this portion of the databox creation. This saves us time and energy.
 
 Here is the databoxes as they appear TRAPPED in the ESDAT web interface.
 ![DataboxExample1](https://github.com/summerturn/Summerlyn-Turner-Portfolio/assets/55452231/16c80aef-2ad4-4ec9-9943-16282e408cd1)
