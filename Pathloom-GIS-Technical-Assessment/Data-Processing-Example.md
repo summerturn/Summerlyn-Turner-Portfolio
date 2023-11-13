@@ -3,7 +3,7 @@
 The code I wrote below is designed to read a KML file exported from EsDAT with chemistry databoxes and processes the data into an Excel sheet with styled and complete databoxes that can be copied into an ArcMap document as is. The script also offers to convert the KML into a Shapefile format to make the process even more streamlined if the locations don’t already exist within a project. Creating databoxes used to be a manual process from front to back and this script now allows the GIS team at my company to automate this portion of the databox creation. This saves us time and energy.
 
 Here is the databoxes as they appear TRAPPED in the ESDAT web interface.
-![DataboxExample1](https://github.com/summerturn/Summerlyn-Turner-Portfolio/assets/55452231/16c80aef-2ad4-4ec9-9943-16282e408cd1)
+![DataboxExample1](https://github.com/summerturn/Summerlyn-Turner-Portfolio/assets/55452231/9b32a832-f021-4bce-87bb-2381b7210b8e)
 
 Here are the formatted databoxes in an excel sheet, ready to be pasted into an mxd or further edited! I created a Horizontal and Vertical variation that the team can choose between depending on need.
 
@@ -12,6 +12,7 @@ Here are the formatted databoxes in an excel sheet, ready to be pasted into an m
 ![DataboxExample2](https://github.com/summerturn/Summerlyn-Turner-Portfolio/assets/55452231/e0fe8dcf-88a0-4735-b3d9-5a8e740c48b1)
 
 ### Code
+
 
 ```ruby
 
