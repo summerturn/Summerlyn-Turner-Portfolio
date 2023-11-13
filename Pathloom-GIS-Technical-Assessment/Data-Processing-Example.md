@@ -7,15 +7,12 @@ Here is the databoxes as they appear TRAPPED in the ESDAT web interface.
 
 Here are the formatted databoxes in an excel sheet, ready to be pasted into an mxd or further edited! I created a Horizontal and Vertical variation that the team can choose between depending on need.
 
-![DataboxExample3](https://github.com/summerturn/Summerlyn-Turner-Portfolio/assets/55452231/542bd3b5-f0d0-42d8-9f6a-9fd88beb7882)
+![DataboxExample2](https://github.com/summerturn/Summerlyn-Turner-Portfolio/assets/55452231/fd5f5638-1518-418b-9c81-c37d9084ebf2)
 
-![DataboxExample2](https://github.com/summerturn/Summerlyn-Turner-Portfolio/assets/55452231/e0fe8dcf-88a0-4735-b3d9-5a8e740c48b1)
+![DataboxExample3](https://github.com/summerturn/Summerlyn-Turner-Portfolio/assets/55452231/fce349b2-9ef7-4529-8d9b-0183606b8260)
 
 ### Code
-
-
 ```ruby
-
 from osgeo import ogr, osr
 from bs4 import BeautifulSoup
 from openpyxl import Workbook
