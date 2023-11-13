@@ -35,8 +35,8 @@ Solution is located [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfo
 
    Make a duplicate copy of the file and combine both the files into one dataframe. Using Python, find duplicate geometries in your dataset. Share the code and output.
 
-   Notebook with my code is [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Pathloom-GIS-Technical-Assesment.ipynb)
-   CSV with duplicate geometries is [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Pathloom-GIS-Technical-Assesment.ipynb)
+    * Notebook with my code is [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Pathloom-GIS-Technical-Assesment.ipynb)
+    * CSV with duplicate geometries is [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Pathloom-GIS-Technical-Assesment.ipynb)
 
    Using ArcGIS, QGIS, or Python GDAL, derive the following properties for all records in your dataset: 
 
