@@ -38,7 +38,7 @@ Response is located [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfo
    Make a duplicate copy of the file and combine both the files into one dataframe. Using Python, find duplicate geometries in your dataset. Share the code and output.
 
  - Notebook with my code is [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Pathloom-GIS-Technical-Assesment.ipynb)
- - CSV with duplicate geometries is [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Pathloom-GIS-Technical-Assesment.ipynb)
+ - CSV with duplicate geometries is [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Outputs/duplicate_geometries.csv)
 
   Using ArcGIS, QGIS, or Python GDAL, derive the following properties for all records in your dataset: 
 
@@ -49,4 +49,5 @@ Response is located [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfo
   * Export it as a shapefile and csv, 
   * and provide a screenshot of your output dataframe and an example of your elevation profile plot. 
   * Also, list what DEM and Coordinate Systems you used in your analysis (share links where available).
-	  * Notebook with Code and Outputs [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Pathloom-GIS-Technical-Assesment.ipynb)
+	* Code and Elevation Charts and Dataframe are [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Pathloom-GIS-Technical-Assesment.ipynb)
+	* CSV of the Elevation Profile table is [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Outputs/TrailsElevationProfile.csv)
