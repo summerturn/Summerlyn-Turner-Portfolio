@@ -7,7 +7,7 @@ Date Received: 11/07/2023
 
 ### 1. Please send a piece of code (DATA Processing or Backend Related) in which you are proud of and willing to stamp your name to. Then briefly describe your code in a short paragraph.
 
-Solution is located [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Data-Processing-Example.md)
+Response is located [HERE](https://github.com/summerturn/Summerlyn-Turner-Portfolio/blob/main/Pathloom-GIS-Technical-Assessment/Data-Processing-Example.md)
 
 ### 2. Answer the following questions:
 
